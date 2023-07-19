@@ -1,0 +1,27 @@
+.detail__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+
+    .text__detail {
+        color: #4cc441;
+    }
+
+
+    .img__detail {
+        max-width: 550px;
+        height: 550px;
+    }
+
+    p {
+        margin-bottom: 10px;
+    }
+
+    .price {
+        font-weight: bold;
+    }
+
+
+}

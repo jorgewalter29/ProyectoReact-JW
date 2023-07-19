@@ -1,0 +1,147 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Apple iPhone 6",
+        "descripcion": "Funda de goma eco-elastica",
+        "precio": 2500,
+        "img": "/public/iphone-6.png",
+        "category": "iphone"
+    },
+    {
+        "id": 2,
+        "nombre": "Apple iPhone 7",
+        "descripcion": "funda de eco-cuero rigida",
+        "precio": 3500,
+        "img": "/public/iphone-7-plus.jpeg",
+        "category": "iphone"
+    },
+    {
+        "id": 3,
+        "nombre": "Apple iPhone 12",
+        "descripcion": "funda de silicona tranparente",
+        "precio": 5500,
+        "img": "/public/iphone12.webp",
+        "category": "iphone"
+    },
+    {
+        "id": 4,
+        "nombre": "Apple iPhone 13",
+        "descripcion": "Funda de goma eco-elastica",
+        "precio": 2500,
+        "img": "/public/iphone-13.webp",
+        "category": "iphone"
+    },
+    {
+        "id": 5,
+        "nombre": "Apple iPhone 14",
+        "descripcion": "funda de eco-cuero rigida",
+        "precio": 3500,
+        "img": "/public/iphone14.webp",
+        "category": "iphone"
+    },
+    {
+        "id": 6,
+        "nombre": " Samsung A-03",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/A-03.webp",
+        "category": "samsung"
+    },
+    {
+        "id": 7,
+        "nombre": " Samsung A-10",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/A-10.webp",
+        "category": "samsung"
+    },
+    {
+        "id": 8,
+        "nombre": " Samsung A-20",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/A-20.webp",
+        "category": "samsung"
+    },
+    {
+        "id": 9,
+        "nombre": " Samsung S-10",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/S-10.jpg",
+        "category": "samsung"
+    },
+    {
+        "id": 10,
+        "nombre": " Samsung S-20",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/S-20.jpg",
+        "category": "samsung"
+    },
+    {
+        "id": 11,
+        "nombre": " Samsung S21",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/S-21.jpg",
+        "category": "samsung"
+    },
+    {
+        "id": 12,
+        "nombre": " Samsung S-9",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/S-9.jpg",
+        "category": "samsung"
+    },
+    {
+        "id": 13,
+        "nombre": "Motorola G8",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/moto-8.png",
+        "category": "motorola"
+    },
+    {
+        "id": 14,
+        "nombre": "Motorola G20",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/moto-20.png",
+        "category": "motorola"
+    },
+    {
+        "id": 15,
+        "nombre": "Motorola G30",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/moto-30.jpg",
+        "category": "motorola"
+    },
+    {
+        "id": 16,
+        "nombre": "Motorola Edge40",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/moto-40.webp",
+        "category": "motorola"
+    },
+    {
+        "id": 17,
+        "nombre": "Motorola One",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/moto-one.jpg",
+        "category": "motorola"
+    },
+    {
+        "id": 18,
+        "nombre": "Motorola Edge30",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/moto-e30.webp",
+        "category": "motorola"
+    }
+]

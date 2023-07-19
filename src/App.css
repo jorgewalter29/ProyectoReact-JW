@@ -1,0 +1,15 @@
+@import './componentes/Header/header.scss';
+@import './componentes/ItemListContainer/ItemListContainer.scss';
+@import './componentes/ItemDetail/ItemDetail.scss';
+@import './componentes/ItemCard/ItemCard.scss';
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: beige;
+}
