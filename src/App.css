@@ -2,6 +2,7 @@
 @import './componentes/ItemListContainer/ItemListContainer.scss';
 @import './componentes/ItemDetail/ItemDetail.scss';
 @import './componentes/ItemCard/ItemCard.scss';
+@import './componentes/Contacto/Contacto.scss';
 
 
 * {
