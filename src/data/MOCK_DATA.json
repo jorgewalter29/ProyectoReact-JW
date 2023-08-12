@@ -6,7 +6,7 @@
         "descripcion": "Funda de goma eco-elastica",
         "precio": 2500,
         "img": "/public/iphone-6.png",
-        "category": "iphone"
+        "category": "funda"
     },
     {
         "id": 2,
@@ -14,7 +14,7 @@
         "descripcion": "funda de eco-cuero rigida",
         "precio": 3500,
         "img": "/public/iphone-7-plus.jpeg",
-        "category": "iphone"
+        "category": "funda"
     },
     {
         "id": 3,
@@ -22,7 +22,7 @@
         "descripcion": "funda de silicona tranparente",
         "precio": 5500,
         "img": "/public/iphone12.webp",
-        "category": "iphone"
+        "category": "funda"
     },
     {
         "id": 4,
@@ -30,7 +30,7 @@
         "descripcion": "Funda de goma eco-elastica",
         "precio": 2500,
         "img": "/public/iphone-13.webp",
-        "category": "iphone"
+        "category": "funda"
     },
     {
         "id": 5,
@@ -38,7 +38,7 @@
         "descripcion": "funda de eco-cuero rigida",
         "precio": 3500,
         "img": "/public/iphone14.webp",
-        "category": "iphone"
+        "category": "funda"
     },
     {
         "id": 6,
@@ -46,7 +46,7 @@
         "descripcion": "lorem ipsum ...",
         "precio": 1500,
         "img": "/public/A-03.webp",
-        "category": "samsung"
+        "category": "funda"
     },
     {
         "id": 7,
@@ -54,7 +54,7 @@
         "descripcion": "lorem ipsum ...",
         "precio": 1500,
         "img": "/public/A-10.webp",
-        "category": "samsung"
+        "category": "funda"
     },
     {
         "id": 8,
@@ -62,7 +62,7 @@
         "descripcion": "lorem ipsum ...",
         "precio": 1500,
         "img": "/public/A-20.webp",
-        "category": "samsung"
+        "category": "funda"
     },
     {
         "id": 9,
@@ -70,7 +70,7 @@
         "descripcion": "lorem ipsum ...",
         "precio": 1500,
         "img": "/public/S-10.jpg",
-        "category": "samsung"
+        "category": "funda"
     },
     {
         "id": 10,
@@ -78,7 +78,7 @@
         "descripcion": "lorem ipsum ...",
         "precio": 1500,
         "img": "/public/S-20.jpg",
-        "category": "samsung"
+        "category": "funda"
     },
     {
         "id": 11,
@@ -86,7 +86,7 @@
         "descripcion": "lorem ipsum ...",
         "precio": 1500,
         "img": "/public/S-21.jpg",
-        "category": "samsung"
+        "category": "funda"
     },
     {
         "id": 12,
@@ -94,7 +94,7 @@
         "descripcion": "lorem ipsum ...",
         "precio": 1500,
         "img": "/public/S-9.jpg",
-        "category": "samsung"
+        "category": "funda"
     },
     {
         "id": 13,
@@ -102,7 +102,7 @@
         "descripcion": "lorem ipsum ...",
         "precio": 1500,
         "img": "/public/moto-8.png",
-        "category": "motorola"
+        "category": "funda"
     },
     {
         "id": 14,
@@ -110,7 +110,7 @@
         "descripcion": "lorem ipsum ...",
         "precio": 1500,
         "img": "/public/moto-20.png",
-        "category": "motorola"
+        "category": "funda"
     },
     {
         "id": 15,
@@ -118,7 +118,7 @@
         "descripcion": "lorem ipsum ...",
         "precio": 1500,
         "img": "/public/moto-30.jpg",
-        "category": "motorola"
+        "category": "funda"
     },
     {
         "id": 16,
@@ -126,7 +126,7 @@
         "descripcion": "lorem ipsum ...",
         "precio": 1500,
         "img": "/public/moto-40.webp",
-        "category": "motorola"
+        "category": "funda"
     },
     {
         "id": 17,
@@ -134,7 +134,7 @@
         "descripcion": "lorem ipsum ...",
         "precio": 1500,
         "img": "/public/moto-one.jpg",
-        "category": "motorola"
+        "category": "funda"
     },
     {
         "id": 18,
@@ -142,6 +142,65 @@
         "descripcion": "lorem ipsum ...",
         "precio": 1500,
         "img": "/public/moto-e30.webp",
-        "category": "motorola"
+        "category": "funda"
+    },
+
+
+
+    {
+        "id": 19,
+        "nombre": "Cargador inalambrico",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/cargador-1.jpg",
+        "category": "cargador"
+    },
+    {
+        "id": 20,
+        "nombre": "Cargador inalambrico",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/cargador-2.jpg",
+        "category": "cargador"
+    },
+    {
+        "id": 21,
+        "nombre": "Cargador inalambrico",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/cargador-3.jpg",
+        "category": "cargador"
+    },
+    {
+        "id": 22,
+        "nombre": "Cargador inalambrico",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/cargador-4.webp",
+        "category": "cargador"
+    },
+    {
+        "id": 23,
+        "nombre": "Cargador inalambrico",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/cargador-5.jpg",
+        "category": "cargador"
+    },
+
+
+
+
+    {
+        "id": 24,
+        "nombre": "Vidrio Templado",
+        "descripcion": "lorem ipsum ...",
+        "precio": 1500,
+        "img": "/public/templado6.png",
+        "category": "glass"
     }
+
+
+
+
 ]

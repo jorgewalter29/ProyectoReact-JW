@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import './ItemListContainer.scss'
+
 import { pedirDatos } from '../../helpers/pedirDatos'
 import ItemList from '../ItemList/ItemList'
 import { useParams } from 'react-router-dom'
@@ -7,6 +7,9 @@ import { useParams } from 'react-router-dom'
 
 // Estructura basica para trabajar con precesos asincronicos
 const ItemListContainer = () => {
+
+    
+
     const [productos, setProductos] = useState([])
     const [, setLoading] = useState(true)
 

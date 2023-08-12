@@ -5,7 +5,7 @@ const ItemDetail = ({ item }) => {
     return (
         <div className='detail__container md-4 sm-2'>
             <h4 className='text_detail'>{item.nombre}</h4>
-            <img src={item.img} alt={item.nombre} className='img__detail' />
+            <img src={item.img} alt={item.nombre} className='img__detail shadow-indigo-500/50' />
             <p>{item.descripcion}</p>
             <p className='price'>Precio: ${item.precio}</p>
             <Link to={`/detail/${item.id}`} className='btn btn-success'>

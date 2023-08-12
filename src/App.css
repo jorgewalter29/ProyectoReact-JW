@@ -1,8 +1,15 @@
 @import './componentes/Header/header.scss';
-@import './componentes/ItemListContainer/ItemListContainer.scss';
+/* @import './componentes/ItemListContainer/ItemListContainer.scss'; */
 @import './componentes/ItemDetail/ItemDetail.scss';
 @import './componentes/ItemCard/ItemCard.scss';
 @import './componentes/Contacto/Contacto.scss';
+
+/* src/index.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Aquí puedes agregar estilos adicionales si los necesitas */
 
 
 * {
@@ -12,5 +19,5 @@
 }
 
 body {
-  background-color: beige;
+  background-color: #f0f0f0; /* Gris claro */
 }

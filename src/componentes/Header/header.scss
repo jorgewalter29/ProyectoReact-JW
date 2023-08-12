@@ -1,6 +1,11 @@
 .header {
-    background-color: rgba(71, 90, 80, 0.911);
+    background-color: rgb(141, 13, 245);
     font-family: 'Gruppo', sans-serif;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
 
     .header__container {
         max-width: 1100 px;
@@ -9,12 +14,6 @@
         display: flex;
         justify-content: space-around;
         align-items: center;
-
-        .header__logo {
-            font-size: 40px;
-            font-weight: 700;
-            color: beige;
-        }
 
         .navbar {
             display: flex;
@@ -32,3 +31,15 @@
         }
     }
 }
+
+
+
+
+
+/* Estilos del submenú */
+
+
+
+
+
+/* Estilos para los enlaces del submenú */
